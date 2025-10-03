@@ -2,10 +2,11 @@
 
 ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-4.5.14-646CFF?logo=vite)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-3.4.17-06B6D4?logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)
 
 A simple React Quiz App that allows users to answer shuffled questions under a timer, and provides a summary of correct, wrong, and skipped answers.
+
+This project started as a guided React exercise and evolved through **independent implementations**, reflecting my learning journey. It also serves as a foundation for future enhancements, including retry attempts, multiple quiz categories, and UI animations.
 
 ---
 
@@ -78,7 +79,7 @@ Open your browser at http://localhost:5173 (Vite default).
 
 ## 📈 Future Improvements
 
-- Persistent scores with localStorage
+- Allow up to 3 retry attempts for the quiz
 - Multiple quizzes with categories
 - Animations and enhanced UI
 
@@ -87,8 +88,7 @@ Open your browser at http://localhost:5173 (Vite default).
 ## 👩‍💻 Author
 
 Created by **Walaa Smadi**✨ \
-Based on a tutorial/course, but all work, styling, and enhancements were done independently.
-
+Passionate React developer building modern, maintainable, scalable, performant, and user-friendly web apps.
 - GitHub: [@smadi2512](https://github.com/smadi2512)
 - LinkedIn: [Walaa Smadi](https://www.linkedin.com/in/walaa-bilal-smadi/)
 
