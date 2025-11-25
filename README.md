@@ -1,21 +1,22 @@
 # 🏆 React Quiz
 
 ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?logo=react)
-![Vite](https://img.shields.io/badge/Vite-4.5.14-646CFF?logo=vite)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)
+![Vite](https://img.shields.io/badge/Vite-4.5.14-646CFF?logo=vite)
 
-A simple React Quiz App that allows users to answer shuffled questions under a timer, and provides a summary of correct, wrong, and skipped answers.
 
-This project started as a guided React exercise and evolved through **independent implementations**, reflecting my learning journey. It also serves as a foundation for future enhancements, including retry attempts, multiple quiz categories, and UI animations.
+A simple React Quiz App that allows users to **answer shuffled questions under a timer**, and provides a **summary of correct, wrong, and skipped answers**.
+
+This project started as a guided React exercise and evolved through **independent implementations**, reflecting my learning journey. It also serves as a foundation for future enhancements, including **retry attempts**, **multiple quiz categories**, and UI animations.
 
 ---
 
 ## 📝 Features
 
-- Shuffle questions for each quiz attempt
-- Timer for each question
-- Track user answers: correct, wrong, skipped
-- Display summary at the end with percentages
+- **Shuffle questions** for each quiz attempt
+- **Timer** for each question
+- **Track user answers**: correct, wrong, skipped
+- **Display summary** at the end with percentages
 
 ##### Note: Minimal styling; main focus is on React logic and functionality.
 
@@ -79,9 +80,9 @@ Open your browser at http://localhost:5173 (Vite default).
 
 ## 📈 Future Improvements
 
-- Allow up to 3 retry attempts for the quiz
-- Multiple quizzes with categories
-- Animations and enhanced UI
+- Allow up to **3 retry attempts** for the quiz
+- **Multiple quizzes** with categories
+- **Animations** and enhanced UI
 
 ---
 
